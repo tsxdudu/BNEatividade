@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        Title.WriteTitle();
+        Name.WriteTitle();
         while (true)
         {
             Console.WriteLine("·············································································");

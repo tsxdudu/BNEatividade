@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("testeDeMesaPorIteracao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b321d1eeb0d3028198c8b23a36594786278ba4f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4647c44765e344f52dc59bc9209723be82ff7d95")]
 [assembly: System.Reflection.AssemblyProductAttribute("testeDeMesaPorIteracao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("testeDeMesaPorIteracao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

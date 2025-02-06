@@ -1,6 +1,6 @@
 using System;
 
-public class Title
+public class Name
 {
     public static void WriteTitle(){
         
