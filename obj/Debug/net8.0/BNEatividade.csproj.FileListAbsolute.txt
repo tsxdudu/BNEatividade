@@ -1,0 +1,15 @@
+C:\Users\carlosarndt\Desktop\BNEatividade\bin\Debug\net8.0\BNEatividade.exe
+C:\Users\carlosarndt\Desktop\BNEatividade\bin\Debug\net8.0\BNEatividade.deps.json
+C:\Users\carlosarndt\Desktop\BNEatividade\bin\Debug\net8.0\BNEatividade.runtimeconfig.json
+C:\Users\carlosarndt\Desktop\BNEatividade\bin\Debug\net8.0\BNEatividade.dll
+C:\Users\carlosarndt\Desktop\BNEatividade\bin\Debug\net8.0\BNEatividade.pdb
+C:\Users\carlosarndt\Desktop\BNEatividade\obj\Debug\net8.0\BNEatividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlosarndt\Desktop\BNEatividade\obj\Debug\net8.0\BNEatividade.AssemblyInfoInputs.cache
+C:\Users\carlosarndt\Desktop\BNEatividade\obj\Debug\net8.0\BNEatividade.AssemblyInfo.cs
+C:\Users\carlosarndt\Desktop\BNEatividade\obj\Debug\net8.0\BNEatividade.csproj.CoreCompileInputs.cache
+C:\Users\carlosarndt\Desktop\BNEatividade\obj\Debug\net8.0\BNEatividade.sourcelink.json
+C:\Users\carlosarndt\Desktop\BNEatividade\obj\Debug\net8.0\BNEatividade.dll
+C:\Users\carlosarndt\Desktop\BNEatividade\obj\Debug\net8.0\refint\BNEatividade.dll
+C:\Users\carlosarndt\Desktop\BNEatividade\obj\Debug\net8.0\BNEatividade.pdb
+C:\Users\carlosarndt\Desktop\BNEatividade\obj\Debug\net8.0\BNEatividade.genruntimeconfig.cache
+C:\Users\carlosarndt\Desktop\BNEatividade\obj\Debug\net8.0\ref\BNEatividade.dll

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carlosarndt\\Desktop\\BNEatividade\\testeDeMesaPorIteracao.csproj",
-      "projectName": "testeDeMesaPorIteracao",
-      "projectPath": "C:\\Users\\carlosarndt\\Desktop\\BNEatividade\\testeDeMesaPorIteracao.csproj",
+      "projectUniqueName": "C:\\Users\\carlosarndt\\Desktop\\BNEatividade\\BNEatividade.csproj",
+      "projectName": "BNEatividade",
+      "projectPath": "C:\\Users\\carlosarndt\\Desktop\\BNEatividade\\BNEatividade.csproj",
       "packagesPath": "C:\\Users\\carlosarndt\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\carlosarndt\\Desktop\\BNEatividade\\obj\\",
       "projectStyle": "PackageReference",
